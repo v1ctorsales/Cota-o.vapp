@@ -27,3 +27,38 @@ td, th {
 tr:nth-child(even) {
   background-color: #dddddd;
 }
+
+#landing{
+  padding: 5%;
+}
+
+.content1{
+  display: inline;
+}
+
+.tit-direita{
+  display: inline-block;
+  text-align: center;
+}
+
+.tituloverde{
+  max-width: 450px;
+}
+
+.comprar{
+width: 12rem;
+height: 3rem;
+border-radius: 25px;
+background-color: rgb(89, 156, 89);
+color: white;
+font-weight: 700;
+}
+.comprar:hover{
+  font-size: 16.5px;
+  background-color: rgb(69, 126, 69);
+  font-weight: 750;
+}
+
+.imgtitle{
+
+}

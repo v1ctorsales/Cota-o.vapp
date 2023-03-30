@@ -4,14 +4,6 @@ import './App.css';
 import React from 'react';
 import "/node_modules/flag-icons/css/flag-icons.min.css";
 
-function teste(){
-
-
-  return(
-    <h1>oi</h1>
-  )
-}
-
 
 function App() {
   const [posts, setPosts] = useState([]);
